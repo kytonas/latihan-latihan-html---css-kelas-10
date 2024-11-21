@@ -1,0 +1,79 @@
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+.icon {
+    margin-right: 25px;
+}
+h1 {
+    color: rgb(82, 82, 95);
+}
+.button {
+    width: 35%;
+    font-size: 19px;
+    color: rgb(82, 82, 95);
+    padding: 12px;
+    margin: 5px 0;
+    background-color: pink;
+    border: none;
+    transition: 0.5s;
+  }
+#button {
+    width: 20%;
+    font-size: 19px;
+    color: rgb(82, 82, 95);
+    padding: 12px;
+    margin: 5px 0;
+    background-color: pink;
+    border: none;
+    transition: 0.5s;
+
+  }
+.card {
+    box-shadow: 0 0 15px gray;
+}
+iframe {
+    box-shadow: 0 0 5px gray;
+}
+#icon {
+    display: flex;
+}
+.link {
+    color: white;
+}
+#bg1 {
+    background-image: url(../img/whiteabstractbg.jpg);
+}
+#bg2 {
+    background-image: url(../img/gray-calathea-lutea-leaf-patterned-background_53876-149681.jpg);
+}
+#bg3 {
+    background-image: url(../img/whiteabstractbg.jpg);
+}
+#bg4 {
+    background-image: url(../img/smooth-white-wave-background_52683-55288.jpg);
+}
+#bg5 {
+    background-image: url(../img/vintage-wallpaper-background.jpg);
+}
+#bg6 {
+    background-image: url(../img/whiteabstractbg2.jpg);
+}
+#bg7 {
+    background-image: url(../img/vintage-crumpled-paper-textured-background.jpg);
+}
+#bg8 {
+    background-image: url(../img/whiteabstractbg2.jpg);
+}
+.program {
+    color: rgb(82, 82, 95);
+}
+.button:hover {
+    background-color: violet;
+    color: rgb(82, 82, 95);
+}
+#button:hover {
+    background-color: violet;
+    color: rgb(82, 82, 95);
+}

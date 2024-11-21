@@ -1,0 +1,30 @@
+   html, body {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-items: center;
+   }
+
+   .card {
+    box-shadow: 0 0 5px gray;
+    border-radius: 20px;
+  }
+  
+  .its {
+    width: 99.7%;
+    font-size: 19px;
+    color: #757575;
+    padding: 12px;
+    margin: 5px 0;
+    background-color: #ffff;
+    box-shadow: 0 0 5px gray;
+    border-radius: 15px;
+    border: none;
+    transition: all 0.5s ease;
+  }
+  
+  .its:hover,
+  .its:focus {
+      background-color: #757575;
+      color: #ffff;
+  }

@@ -1,0 +1,26 @@
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+.card {
+    box-shadow: 0 0 30px gray;
+}
+.card-img-top {
+    height: 200px;
+    width: 200px;
+}
+.link {
+    color: white;
+}
+.icon {
+    margin-right: 25px;
+}
+.btn {
+    transition: 0.5s;
+    border: none;
+}
+.btn:hover {
+    background-color: blue;
+    color: white;
+}

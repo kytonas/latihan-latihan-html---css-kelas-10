@@ -1,0 +1,17 @@
+.jumbotron {
+    padding: 2rem 1rem;
+    background-color: #2f6cb7;
+}
+.container {
+    padding-top: 2rem;
+}
+.row {
+    box-shadow: 0 0 5px gray; 
+    width: 1150px; 
+    height: 150px;
+    background-color: white; 
+    border-radius: 10px; 
+}
+p {
+    color: black;
+}
